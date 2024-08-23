@@ -22,12 +22,17 @@
   width: 50%;
   height: 296px;
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .header_pic_2 {
   background-image: url(/assets/images/product-header-2.png);
   width: 50%;
   height: 296px;
   background-size: cover;
+
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .product_main {
   padding: 80px 0;
